@@ -146,7 +146,7 @@ void print(struct heap* h){
 
 int get_choice() {
     int choice;
-    printf("\n AVL TREE MENU");
+    printf("\n HEAP MENU");
     printf("\n1. Create:");
     printf("\n2. Insert:");
     printf("\n3. Search:");
