@@ -21,6 +21,7 @@ Solution By Mukesh K Jadon
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_SIZE 100
+
 struct mobileapp
 {
        char name[20];
