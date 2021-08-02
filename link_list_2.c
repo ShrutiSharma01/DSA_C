@@ -10,7 +10,6 @@ typedef struct node{
     struct node *next;
 }node;
 
-
 int instructions() {
     printf("1. Create list\n"
            "2. Display list\n"
