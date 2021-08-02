@@ -71,7 +71,6 @@ void peek(node **front, char* name){
 
 }
 
-
 int instructions() {
     printf("1. Insert\n"
            "2. Delete\n"
