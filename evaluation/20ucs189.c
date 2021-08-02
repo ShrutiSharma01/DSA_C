@@ -75,6 +75,7 @@ int find_degree(struct node *Adj[], int n, int nodes) {
             degree[temp->vertex]++;
             temp = temp->next;
         }
+        
         degree[i] += cnt;
     }
     return degree[n];
